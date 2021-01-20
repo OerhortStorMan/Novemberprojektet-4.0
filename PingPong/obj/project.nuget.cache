@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fGM4NeiSxBeOCyYk1wdyMu2KeKjQ3NPbrWtK0kidfvY/Uw89CjQRT1FcDOFJKbgDTLc53RatIouv66Gl70sVsA==",
+  "dgSpecHash": "vPVloQ3LMAk1W/XkbyZI+LTubPoteW+ybaU7pTIkWHhuRPSl1PGdNaZpqmtQQ9OfRa7MFMwXJnrQ/HvdzeYIlA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\lwine\\Documents\\VS code\\Programmering 2\\Projekt\\Novemberprojektet 4.0\\PingPong\\PingPong.csproj",
+  "projectFilePath": "C:\\Users\\lwine\\Documents\\VS code\\Programmering 2\\Projekt\\Novemberprojektet 4.0\\PingPong\\PingPong.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lwine\\.nuget\\packages\\raylib-cs\\3.5.0\\raylib-cs.3.5.0.nupkg.sha512"
   ],
